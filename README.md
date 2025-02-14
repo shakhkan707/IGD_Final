@@ -4,7 +4,6 @@
 * [Requirements](#requirements)
 * [Setup](#setup)
 
-![Screenshot](https://github.com/MykleCode/pygame-doodlejump/blob/main/demo.gif)
 
 ## General Info
 * No images used for graphics
